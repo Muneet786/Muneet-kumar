@@ -9,15 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muneet786&label=Profile%20views&color=0e75b6&style=flat" alt="Muneet kumar" /> </p>
 
 - 🌱 I’m currently learning **React Native, NodeJs, Python**
-- 
+  
 - 🌱 I’m currently learning **React Native, NodeJs, MongoDB**
-- 
+ 
 - 💬 Ask me about **Frontend Development, JavaScript**
-- 
+  
 - 📫 How to reach me **kumarmuneet440@gmail.com**
-- 
+  
 - ⚡ Fun fact **I’m currently 22 years old**
-- 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MuneetKumar440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasjahangir0" height="30" width="40" /></a>

@@ -1,5 +1,6 @@
 <span class="border-r">
-  <img align="center" width="100%" src="[https://anasjahangir.netlify.app/img/banner.jpg](https://camo.githubusercontent.com/53c9d6100f3831d2eddc21a0701c4727a068574f41abc454016bb3bb7a42049f/68747470733a2f2f616e61736a6168616e6769722e6e65746c6966792e6170702f696d672f62616e6e65722e6a7067)" alt="Muneet kumar">
+  <img align="center" width="100%" src="https://anasjahangir.netlify.app/img/banner.jpg" alt="Muneet kumar">
+</span>
 </span>
 
 <h1 align="center">Hi 👋, I'm Muneet kumar</h1>

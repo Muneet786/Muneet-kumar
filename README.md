@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React Native, NodeJs, Python**
 - 🌱 I’m currently learning **React Native, NodeJs, MongoDB**
 - 💬 Ask me about **Frontend Development, JavaScript**
-- 📫 How to reach me **Anasjahangir.bus@gmail.com**
+- 📫 How to reach me **kumarmuneet440@gmail.com**
 - ⚡ Fun fact **I’m currently 15 years old**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muneet Kumar</h1>
 <h3 align="center">A passionate frontend developer And A Student Of Web And Mobile Application Development</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCoQlHe5pKITrFDP4-oXB_p-j9G6Cqa-6xkxgZeaAg8aDeTEk6_kV-C15LqXuKlowPZ4&usqp=CAU"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneet786&label=Profile%20views&color=0e75b6&style=flat" alt="muneet786" /> </p>
 
